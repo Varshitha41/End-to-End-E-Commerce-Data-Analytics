@@ -1,6 +1,13 @@
 # End-to-End E-Commerce Data Analytics Project
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-SQLite-green?logo=sqlite)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
 
-An end-to-end Data Analytics project that demonstrates the complete workflow of transforming raw e-commerce sales data into meaningful business insights using **Python, SQL (SQLite), and Power BI**.
+An end-to-end Data Analytics project demonstrating the complete analytics lifecycle from Data cleaning and Exploratory data analysis (EDA) to SQL querying and interactive Dashboard development using Power BI. The project transforms raw e-commerce sales data into actionable business insights.
 
 
 # Project Overview
@@ -143,17 +150,17 @@ The dashboard includes:
 
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- SQL Query Writing
-- Database Management
+- SQL Query Development
+- Database Management (SQLite)
 - Data Visualization
-- Dashboard Development
-- Business Intelligence
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- Data Storytelling
 - Analytical Thinking
-
 
 # How to Run the Project
 
