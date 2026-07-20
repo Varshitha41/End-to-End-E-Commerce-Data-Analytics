@@ -2,7 +2,6 @@
 
 An end-to-end Data Analytics project that demonstrates the complete workflow of transforming raw e-commerce sales data into meaningful business insights using **Python, SQL (SQLite), and Power BI**.
 
----
 
 # Project Overview
 
@@ -10,7 +9,6 @@ The objective of this project is to analyze an e-commerce sales dataset, perform
 
 This project simulates a real-world analytics workflow followed by Data Analysts.
 
----
 
 # Business Problem
 
@@ -24,7 +22,6 @@ Businesses generate large volumes of sales data every day. The challenge is to t
 
 This project addresses these challenges through data analysis and interactive visualization.
 
----
 
 # Tech Stack
 
@@ -38,7 +35,6 @@ This project addresses these challenges through data analysis and interactive vi
 - Power BI
 - Microsoft Excel
 
----
 
 # Project Workflow
 
@@ -62,7 +58,6 @@ Power BI Dashboard
 Business Insights
 ```
 
----
 
 # Repository Structure
 
@@ -91,7 +86,6 @@ End-to-End-E-Commerce-Data-Analytics
 └── requirements.txt
 ```
 
----
 
 # Python Tasks
 
@@ -101,7 +95,6 @@ End-to-End-E-Commerce-Data-Analytics
 - Performed Exploratory Data Analysis (EDA)
 - Generated visualizations to identify trends
 
----
 
 # SQL Tasks
 
@@ -113,7 +106,6 @@ End-to-End-E-Commerce-Data-Analytics
   - GROUP BY
   - ORDER BY
 
----
 
 # Power BI Dashboard
 
@@ -135,7 +127,6 @@ The dashboard includes:
   - Segment
   - Order Year
 
----
 
 # Key Business Insights
 
@@ -145,14 +136,12 @@ The dashboard includes:
 - Evaluated customer segments using interactive filters.
 - Built an interactive dashboard for business decision-making.
 
----
 
 # Dashboard Preview
 
 <img width="588" height="326" alt="dashboard" src="https://github.com/user-attachments/assets/4f8bccf2-c5b4-48aa-80a3-e13beea00974" />
 
 
----
 
 # Skills Demonstrated
 
@@ -165,7 +154,6 @@ The dashboard includes:
 - Business Intelligence
 - Analytical Thinking
 
----
 
 # How to Run the Project
 
@@ -175,7 +163,6 @@ The dashboard includes:
 4. Open the `.pbix` file using Power BI Desktop.
 5. Interact with the dashboard using the available slicers.
 
----
 
 # Author
 **Varshitha Chalapaka**
