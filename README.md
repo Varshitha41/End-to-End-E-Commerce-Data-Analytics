@@ -1,4 +1,4 @@
-# End-to-End E-Commerce Data Analytics Project
+# Retail Sales Performance Analytics & Business Intelligence Dashboard                         
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-green?logo=sqlite)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
