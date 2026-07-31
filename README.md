@@ -146,7 +146,7 @@ The dashboard includes:
 
 # Dashboard Preview
 
-<img width="588" height="326" alt="dashboard" src="https://github.com/user-attachments/assets/4f8bccf2-c5b4-48aa-80a3-e13beea00974" />
+![Dashboard Preview](Images/dashboard.png)
 
 
 
